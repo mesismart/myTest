@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868151640927",
+    "project_id": "nezammohandesi-67a67",
+    "storage_bucket": "nezammohandesi-67a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868151640927:android:5af00a961a8cdeed38ecea",
+        "android_client_info": {
+          "package_name": "com.dorreh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868151640927-hj4fhffkfao9up1e9cvelhh1ec51cqrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVNHk9R3DiA3-TnKGxV4-z6jP0sOKht-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868151640927-hj4fhffkfao9up1e9cvelhh1ec51cqrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

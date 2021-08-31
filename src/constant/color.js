@@ -1,0 +1,22 @@
+export default {
+  primaryColor: '#4646BD',
+  secondColor: '#F37020',
+  textColorBlue: '#1F1F54',
+  textColorGray: '#999999',
+  gray1: '#d6d6d6',
+  gray2: '#d0d0d0',
+  gray7: '#8F8F8F',
+  gray8: '#A1A1A1',
+  Background: '#F7F7F7',
+  Border: '#E8E8E8',
+  calendarPersonal: '#A7E0F2',
+  calendarGeneral: '#B0B0FF',
+  calendarReport: '#FFBEB0',
+  chatHover: '#F6E0D2',
+  chatMessage: '#D4D4EC',
+  White: '#fff',
+  blue1: '#A7E0F2',
+  blue2: '#B0B0FF',
+
+  red1: '#FE846C',
+};
